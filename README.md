@@ -1,9 +1,9 @@
-#Treball per a 2º DAW
-##Pràctica de markdown
+# Treball per a 2º DAW  
+## Pràctica de markdown  
 
 Este sería el paràgraf en què hi ha les paraules en **negreta**, _cursiva_ i un poc de codi.
-![Icona de github](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw35jDJ0NLnq2_fdJQdzoDyG&ust=1760944788137000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNijq9bcr5ADFQAAAAAdAAAAABAE)  
-També caldrà un parell d'enllaços. Un a una [URL externa](https://www.reddit.com/r/ProgrammerHumor/comments/xai8n0/a_original_meme_based_on_a_real_experience/?tl=es-es) i un altre a [un fitxer markdown del repositori]().  
+![Icona de github]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flogos&psig=AOvVaw35jDJ0NLnq2_fdJQdzoDyG&ust=1760944788137000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNijq9bcr5ADFQAAAAAdAAAAABAE](https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png))  
+També caldrà un parell d'enllaços. Un a una [URL externa](https://www.reddit.com/r/ProgrammerHumor/comments/xai8n0/a_original_meme_based_on_a_real_experience/?tl=es-es) i un altre a [un fitxer markdown del repositori](otro.md).  
 En total he posat:  
 * Un trozo de código.
 * Una lista ordenada
@@ -21,13 +21,14 @@ O:
 6. Una imagen
 7. Una tabla
 
-Mira com faig una taula:  
-'''
+Mira com faig una títol:  
+```python:
+
 |Hola      |Adeu     |
 |----------|--------:|
 |Com va?   |Au!      |
 |Bon dia   |Bona nit |
-'''
+```
 
 |Hola      |Adeu     |
 |----------|--------:|
